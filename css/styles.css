@@ -2,6 +2,13 @@
     color: red;
   }
   
-  .unimportant {
+.Highlight {
     color: blue;
   }
+
+.important {
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+    background-color: blue;
+}
