@@ -18,6 +18,8 @@ A portfolio to showcase Mark's projects, skills, and interests
 
 * Clone repostory from Github to users desktop
 * Open directory in text editor of choice
+* Open in HTML
+* Or visit the page at github at https://github.com/MarkKu7/My-Portfolio.git
 
 ## Known Bugs
 
