@@ -16,17 +16,20 @@ A portfolio to showcase Mark's projects, skills, and interests
 
 ## Setup/Installation Requirements
 
-* VS Code
-* Github
+* Clone repostory from Github to users desktop
+* Open directory in text editor of choice
 
 ## Known Bugs
 
-* Troubleshoot here
+* N/A
 
 ## License
 
-Contact at Email
+MIT
+
+Copyright(c)2021 Mark Chang
 
 ## Contact Information
 
-Email- Marksrc7@gmail.com
+Mark Chang: Marksrc7@gmail.com
+
